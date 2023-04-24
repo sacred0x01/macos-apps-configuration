@@ -21,3 +21,4 @@
 
 ## Todo:  
 - [ ] add install script for automatisation
+- [ ] add screenshot and other visuals
