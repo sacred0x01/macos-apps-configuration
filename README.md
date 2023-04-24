@@ -5,7 +5,7 @@ Also it's quick way to prepare fresh new machine for development (iOS mainly and
 Feel free to use any config part.
 Also I will appreciate new ideas and improvements. 
 
-So let's get started!
+So let's get started 🚀
 
 ## Configuration steps:
 
