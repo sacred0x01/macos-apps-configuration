@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFCB",
+        "font" : "System",
+        "color" : "#00000098"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#480069E4"
+      },
+      "backgroundSelected" : "#0066D6FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000E4"
+      },
+      "iconPaddingHorizontal" : 7,
+      "roundness" : 8,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#0065D6FF",
+      "paddingHorizontal" : 7,
+      "spacing" : 9,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#000000FF"
+      },
+      "background" : "#00000019",
+      "roundness" : 8,
+      "paddingVertical" : 4
+    },
+    "window" : {
+      "color" : "#F8F8F86B",
+      "paddingHorizontal" : 9,
+      "width" : 454,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 15,
+      "paddingVertical" : 9
+    },
+    "credit" : "",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#480069E4",
+      "thickness" : 2
+    },
+    "name" : "Alfred Modern custom Light"
+  }
+}
