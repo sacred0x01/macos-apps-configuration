@@ -11,23 +11,15 @@ So let's get started 🚀
 
 1. Download apps from  [macOS_apps_list.md](macOS_apps_list.md)  
 2. Install ZSH via [zsh_configuration.md](zsh_configuration.md)  
-3. Copy zsh  files to `~/user_name/` as `.` + `name`
-  - `zshrc`  
-  - `zprofile`  
-  - `p10k.zsh`  
-4. Sync `Alfred`, `Dash`, `iTerm2` with settings in folder 
-5. Apply Defaults from [macOS_defaults.md](macOS_defaults.md)  
-6. Copy git files to `~/`as `.` + `name`and replace email
-  - `gitconfig`  
-  - `gitignore_global`  
-7. Install [FiraCode](https://github.com/tonsky/FiraCode) font  
-8. Copy Xcode themes to `~/user_name/Library/Developer/Xcode/UserData/FontAndColorThemes`
-  - `Default (Dark)_fira.xccolortheme` 
-  - `Default (Light)_fira.xccolortheme`  
-9. Copy `Xcode/Templates/RIBs lite.xctemplate/` to `~/user_name/Library/Developer/Xcode/Templates/Custom\ Templates`
+3. Run [copy_macOS_configs.sh](copy_macOS_configs.sh) to put `zsh`, `git` configs in place
+4. Sync `Alfred`, `Dash`, `iTerm2` with settings in folder  
+5. Install [FiraCode](https://github.com/tonsky/FiraCode) font  
+6. Run `copy_Xcode_configs.sh` to put Xcode themes and templates in place
+7. Run [apply_macOS_defaults.sh](macOS_defaults.md) to apply macOS defaults
+8. Run [apply_Xcode_defaults.sh](apply_Xcode_defaults.sh) to apply Xcode defaults
 
 </br>
 
 ### Todo:  
-- [ ] add script for automatic install
+- [x] add script for automatic install
 - [ ] add screenshots and other visuals

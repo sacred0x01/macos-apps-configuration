@@ -29,10 +29,13 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 |6 | AdBlock Pro: Safari AD Blocker| 1018301773 | Crypto Int.   | Utilities      |[Link](https://apps.apple.com/by/app/adblock-pro-safari-ad-blocker/id1018301773) |Free with in-app|
 |7 | 1Password for Safari          | 1569813296 | AgileBits Inc.| Productivity   |[Link](https://apps.apple.com/by/app/1password-for-safari/id1569813296?mt=12)    |Free            |
 |8 | Speedtest                     | 1153157709 | Ookla         | Utilities      |[Link](https://apps.apple.com/by/app/speedtest-by-ookla/id1153157709?mt=12)      |Free            |
+|9 | Pages                         | 409201541  | Apple         | Productivity   |[Link](https://apps.apple.com/by/app/pages/id409201541?mt=12)                    |Free            |
+|10| Keynote                       | 409183694  | Apple         | Productivity   |[Link](https://apps.apple.com/by/app/keynote/id409183694?mt=12)                  |Free            |
+|11| Numbers                       | 409203825  | Apple         | Productivity   |[Link](https://apps.apple.com/by/app/numbers/id409203825?mt=12)                  |Free            |
 
 One command to quickly install everything together with **mas**:
 ```shell  
-mas install 640199958 899247664 441258766 1176895641 904280696 1018301773 1569813296 1153157709
+mas install 640199958 899247664 441258766 1176895641 904280696 1018301773 1569813296 1153157709 409201541 409183694 409203825
 ```
 
 </br>  

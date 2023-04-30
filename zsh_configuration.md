@@ -9,6 +9,8 @@
 2. Install 10kPower theme  
    ```shell
    git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+   
+   p10k configure
    ```
 
 3. Install Auto suggestions plugin  
