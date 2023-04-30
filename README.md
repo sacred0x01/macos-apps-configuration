@@ -24,3 +24,5 @@ So let's get started 🚀
 ### Todo:  
 - [x] add script for automatic install
 - [ ] add screenshots and other visuals
+- [ ] add xcode snipets
+- [ ] add swiftlint and swiftgen configs
