@@ -6,7 +6,7 @@ killall Xcode
 echo "Show the build duration in the Xcode's toolbar"
 defaults write com.apple.dt.Xcode "ShowBuildOperationDuration" -bool "true"
 
-echo "Great way to track down the cause of unnecessary rebuilds"
+echo "Show rebuild reason"
 defaults write com.apple.dt.Xcode ExplainWhyBuildCommandsAreRun -bool YES
 
 echo "Show line number"
@@ -45,5 +45,8 @@ defaults write com.apple.dt.Xcode XCFontAndColorCurrentTheme -string "Default (L
 
 echo "Set dark theme"
 defaults write com.apple.dt.Xcode XCFontAndColorCurrentDarkTheme -string "Default (Dark)_fira.xccolortheme"
+
+echo "Add additional counterpart suffixes that Xcode should consider in the "Related Items > Counterparts" menu."
+defaults write com.apple.dt.Xcode "IDEAdditionalCounterpartSuffixes" -array-add "Router" "Interactor" "Builder"
 
 echo "Warning: * items require to reopen new windows tab to take effect"
