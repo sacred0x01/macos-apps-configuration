@@ -16,7 +16,7 @@ So let's get started 🚀
 5. Install [FiraCode](https://github.com/tonsky/FiraCode) font  
 6. Install and run Xcode via Xcodes.app
 7. Run `copy_Xcode_configs.sh` to put Xcode themes and templates in place
-8. Run [apply_macOS_defaults.sh](apply_macOS_defaults.md) to apply macOS defaults
+8. Run [apply_macOS_defaults.sh](apply_macOS_defaults.sh) to apply macOS defaults
 9. Run [apply_Xcode_defaults.sh](apply_Xcode_defaults.sh) to apply Xcode defaults
 
 </br>
