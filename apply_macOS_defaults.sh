@@ -93,10 +93,10 @@ echo "Appearance ->"
 echo "Allow wallpapers tinting in windows"
 defaults write NSGlobalDomain "AppleReduceDesktopTinting" -bool "false"
 
-echo "Dock & Mission control"
+echo "Dock & Mission control ->"
 
-echo Remove from Dock default apps 
-defaults write com.apple.dock persistent-apps -array
+#echo Remove from Dock default apps  [Disabled for now]
+#defaults write com.apple.dock persistent-apps -array
 
 echo "Hide recent applications in Dock"
 defaults write com.apple.dock show-recents -bool false

@@ -8,7 +8,7 @@ cp "zsh/zprofile" ~/.zprofile
 cp "zsh/p10k.zsh" ~/.p10k.zsh
 
 echo "Copy git configs"
-echo "Warning: don't forget to replace email"
+echo "⚠️ Warning: don't forget to replace name & email ⚠️"
 cp "git/gitconfig" ~/.gitconfig
 cp "git/gitignore_global" ~/.gitignore_global
 

@@ -30,7 +30,6 @@ defaults write com.apple.dt.Xcode DVTTextPageGuideLocation -int 160
 echo "Show invisible characters*"
 defaults write com.apple.dt.Xcode DVTTextShowInvisibleCharacters -bool true
 
-
 echo "Show minimap*"
 defaults write com.apple.dt.Xcode DVTTextShowMinimap -bool true
 
