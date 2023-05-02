@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "Start copying Xcode configs"
-cp "./Xcode/Default (Light)_fira.xccolortheme" ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-cp "./Xcode/Default (Dark)_fira.xccolortheme" ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+cp "./Xcode/Themes/Default (Light)_fira.xccolortheme" ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+cp "./Xcode/Themes/Default (Dark)_fira.xccolortheme" ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 mkdir ~/Library/Developer/Xcode/Templates
 mkdir ~/Library/Developer/Xcode/Templates/Custom\ Templates
