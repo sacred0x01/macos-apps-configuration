@@ -58,7 +58,7 @@ opt_in_rules:  # some rules are only opt-in
     # Use named arguments in multiline closures
     - anonymous_argument_in_multiline_closure
     # Attributes should be on their own lines in functions and types, but on the same line as variables and imports
-     - attributes
+    - attributes
     # Closure bodies should not span too many lines
     - closure_body_length
     # Prefer contains over comparing filter(where:).count to 0
@@ -137,16 +137,18 @@ opt_in_rules:  # some rules are only opt-in
     - trailing_closure
     # Parentheses are not needed when declaring closure arguments
     - unneeded_parentheses_in_closure_argument 
-    # Declarations should be referenced at least once within all files linted
-    - unused_declaration
-    # All imported modules should be required to make the file compile
-    - unused_import
     # Don’t include vertical whitespace (empty line) before closing braces
     - vertical_whitespace_closing_braces
     # Don’t include vertical whitespace (empty line) after opening braces
     - vertical_whitespace_opening_braces
     # Delegates should be weak to avoid reference cycles
     - weak_delegate
+
+analyzer_rules:
+    # Declarations should be referenced at least once within all files linted
+    - unused_declaration
+    # All imported modules should be required to make the file compile
+    - unused_import
 
 trailing_whitespace:
     ignores_empty_lines: true
