@@ -144,6 +144,9 @@ defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 echo "Show path bar"
 defaults write com.apple.finder ShowPathbar -bool true
 
+echo "Show Tab Bar"
+defaults write com.apple.Finder NSWindowTabbingShoudShowTabBarKey-com.apple.finder.TBrowserWindow -bool true
+
 echo "Show status bar"
 defaults write com.apple.finder ShowStatusBar -bool true
 
