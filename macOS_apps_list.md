@@ -26,7 +26,7 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 |3 | Magnet                        | 441258766  | CrowdCafe     | Productivity   |[Link](https://apps.apple.com/by/app/magnet/id441258766)                         |$7.99           |
 |4 | Spark                         | 1176895641 | Readdle       | Productivity   |[Link](https://apps.apple.com/by/app/spark-email-app-by-readdle/id1176895641)    |Free            |
 |5 | Things                        | 904280696  | Cultured Code | Productivity   |[Link](https://apps.apple.com/by/app/things-3/id904280696)                       |$49.99          |
-|6 | AdBlock Pro: Safari AD Blocker| 1018301773 | Crypto Int.   | Utilities      |[Link](https://apps.apple.com/by/app/adblock-pro-safari-ad-blocker/id1018301773) |Free with in-app|
+|6 | AdBlock Plus for Safari ABP   | 1432731683 | Eyeo GmbH     | Utilities      |[Link](https://apps.apple.com/by/app/adblock-plus-for-safari-abp/id1432731683)   |Free with in-app|
 |7 | 1Password for Safari          | 1569813296 | AgileBits Inc.| Productivity   |[Link](https://apps.apple.com/by/app/1password-for-safari/id1569813296?mt=12)    |Free            |
 |8 | Speedtest                     | 1153157709 | Ookla         | Utilities      |[Link](https://apps.apple.com/by/app/speedtest-by-ookla/id1153157709?mt=12)      |Free            |
 |9 | Pages                         | 409201541  | Apple         | Productivity   |[Link](https://apps.apple.com/by/app/pages/id409201541?mt=12)                    |Free            |
@@ -35,7 +35,7 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 
 One command to quickly install everything together with **mas**:
 ```shell  
-mas install 640199958 899247664 441258766 1176895641 904280696 1018301773 1569813296 1153157709 409201541 409183694 409203825
+mas install 640199958 899247664 441258766 1176895641 904280696 1432731683 1569813296 1153157709 409201541 409183694 409203825
 ```
 
 </br>  
