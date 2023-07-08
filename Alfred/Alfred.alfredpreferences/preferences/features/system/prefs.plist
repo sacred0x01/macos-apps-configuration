@@ -4,6 +4,7 @@
 <dict>
 	<key>ejectBlacklist</key>
 	<array>
+		<string>BACKUP_SSD</string>
 		<string>BACKUPS</string>
 		<string>com.apple.TimeMachine*</string>
 		<string>Macintosh HD</string>
