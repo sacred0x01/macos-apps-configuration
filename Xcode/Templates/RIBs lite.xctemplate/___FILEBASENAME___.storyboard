@@ -10,7 +10,7 @@
         <!--product Name View Controller-->
         <scene sceneID="hHE-U5-VP0">
             <objects>
-                <viewController storyboardIdentifier="MainViewController" id="k19-b8-O9p" customClass="___VARIABLE_productName___ViewController" customModule="Converter" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="___VARIABLE_productName___ViewControllerId" id="k19-b8-O9p" customClass="___VARIABLE_productName___ViewController" customModule="Converter" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="JYG-uw-gfv">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
