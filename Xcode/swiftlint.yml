@@ -64,8 +64,6 @@ opt_in_rules:  # some rules are only opt-in
     - sorted_first_last
     # Prefer checking isEmpty over comparing string to an empty string literal.
     - empty_string
-    # Prefer using AnyObject over class for class-only protocols.
-    - anyobject_protocol
     # Prefer implicit returns in closures, functions and getters
     - implicit_return
     # Attributes should be on their own lines in functions and types, but on the same line as variables and imports
@@ -174,6 +172,10 @@ cyclomatic_complexity:
 
 function_parameter_count:
     warning: 6
+
+closure_body_length:
+    warning: 40
+    error: 50
 
 large_tuple:
     warning: 4
