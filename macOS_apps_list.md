@@ -19,18 +19,19 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 </br>
 
 ## App Store.app
-|# | Title                         | Id         | Developer     | Category       | URL                                                                             |Price           |
-|--|-------------------------------|------------|---------------|----------------|:--------------------------------------------------------------------------------|---------------:|
-|1 | Developer                     | 640199958  | Apple         | Education      |[Link](https://apps.apple.com/us/app/apple-developer/id640199958)                |Free            |
-|2 | TestFlight                    | 899247664  | Apple         | Developer Tools|[Link](https://apps.apple.com/by/app/testflight/id899247664)                     |Free            |
-|3 | Magnet                        | 441258766  | CrowdCafe     | Productivity   |[Link](https://apps.apple.com/by/app/magnet/id441258766)                         |$7.99           |
-|4 | Things                        | 904280696  | Cultured Code | Productivity   |[Link](https://apps.apple.com/by/app/things-3/id904280696)                       |$49.99          |
-|5 | AdBlock Plus for Safari ABP   | 1432731683 | Eyeo GmbH     | Utilities      |[Link](https://apps.apple.com/by/app/adblock-plus-for-safari-abp/id1432731683)   |Free with in-app|
-|6 | 1Password for Safari          | 1569813296 | AgileBits Inc.| Productivity   |[Link](https://apps.apple.com/by/app/1password-for-safari/id1569813296?mt=12)    |Free            |
-|7 | Speedtest                     | 1153157709 | Ookla         | Utilities      |[Link](https://apps.apple.com/by/app/speedtest-by-ookla/id1153157709?mt=12)      |Free            |
-|8 | Pages                         | 409201541  | Apple         | Productivity   |[Link](https://apps.apple.com/by/app/pages/id409201541?mt=12)                    |Free            |
-|9 | Keynote                       | 409183694  | Apple         | Productivity   |[Link](https://apps.apple.com/by/app/keynote/id409183694?mt=12)                  |Free            |
-|10| Numbers                       | 409203825  | Apple         | Productivity   |[Link](https://apps.apple.com/by/app/numbers/id409203825?mt=12)                  |Free            |
+|# | Title                         | Id         | Developer     | Category          | URL                                                                             |Price           |
+|--|-------------------------------|------------|---------------|-------------------|:--------------------------------------------------------------------------------|---------------:|
+|1 | Developer                     | 640199958  | Apple         | Education         |[Link](https://apps.apple.com/us/app/apple-developer/id640199958)                |Free            |
+|2 | TestFlight                    | 899247664  | Apple         | Developer Tools   |[Link](https://apps.apple.com/by/app/testflight/id899247664)                     |Free            |
+|3 | Magnet                        | 441258766  | CrowdCafe     | Productivity      |[Link](https://apps.apple.com/by/app/magnet/id441258766)                         |$7.99           |
+|4 | Things                        | 904280696  | Cultured Code | Productivity      |[Link](https://apps.apple.com/by/app/things-3/id904280696)                       |$49.99          |
+|5 | AdBlock Plus for Safari ABP   | 1432731683 | Eyeo GmbH     | Utilities         |[Link](https://apps.apple.com/by/app/adblock-plus-for-safari-abp/id1432731683)   |Free with in-app|
+|6 | 1Password for Safari          | 1569813296 | AgileBits Inc.| Productivity      |[Link](https://apps.apple.com/by/app/1password-for-safari/id1569813296?mt=12)    |Free            |
+|7 | Speedtest                     | 1153157709 | Ookla         | Utilities         |[Link](https://apps.apple.com/by/app/speedtest-by-ookla/id1153157709?mt=12)      |Free            |
+|8 | Pages                         | 409201541  | Apple         | Productivity      |[Link](https://apps.apple.com/by/app/pages/id409201541?mt=12)                    |Free            |
+|9 | Keynote                       | 409183694  | Apple         | Productivity      |[Link](https://apps.apple.com/by/app/keynote/id409183694?mt=12)                  |Free            |
+|10| Numbers                       | 409203825  | Apple         | Productivity      |[Link](https://apps.apple.com/by/app/numbers/id409203825?mt=12)                  |Free            |
+|11| Ivory                         | 6444602274 | Apple         | Social Networking |[Link](https://apps.apple.com/by/app/ivory-for-mastodon-by-tapbots/id6444602274) |Free            |
 
 One command to quickly install everything together with **mas**:
 ```shell  
