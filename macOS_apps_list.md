@@ -13,7 +13,7 @@ Please check official [site](https://brew.sh) for actual install command (in cas
 ```shell
 brew install mas
 ```
-It will helps us to download Mac App Store apps easily.
+It will help us to download Mac App Store apps easily.
 Here is complete list of apps I prefer to install on each my mac machine since day one, split by source (App Store or Homebrew).
 
 </br>
@@ -32,10 +32,11 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 |9 | Keynote                       | 409183694  | Apple         | Productivity      |[Link](https://apps.apple.com/by/app/keynote/id409183694?mt=12)                  |Free            |
 |10| Numbers                       | 409203825  | Apple         | Productivity      |[Link](https://apps.apple.com/by/app/numbers/id409203825?mt=12)                  |Free            |
 |11| Ivory                         | 6444602274 | Apple         | Social Networking |[Link](https://apps.apple.com/by/app/ivory-for-mastodon-by-tapbots/id6444602274) |Free            |
+|12| Twitter                       | 1482454543 | X Corp.       | Social Networking |[Link](https://apps.apple.com/by/app/twitter/id1482454543)                       |Free            |
 
 One command to quickly install everything together with **mas**:
 ```shell  
-mas install 640199958 899247664 441258766 904280696 1432731683 1569813296 1153157709 409201541 409183694 409203825
+mas install 640199958 899247664 441258766 904280696 1432731683 1569813296 1153157709 409201541 409183694 409203825 6444602274 1482454543
 ```
 
 </br>  
