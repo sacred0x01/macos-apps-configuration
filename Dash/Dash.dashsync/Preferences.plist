@@ -466,6 +466,28 @@
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
+	<key>DHSwiftRepo</key>
+	<dict>
+		<key>installed</key>
+		<dict>
+			<key>https://github.com/SwiftDocOrg/swift-doc</key>
+			<dict>
+				<key>date</key>
+				<date>2023-10-10T19:59:38Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>SwiftDocOrg/swift-doc</string>
+					<key>platform</key>
+					<string>docc</string>
+					<key>uniqueIdentifier</key>
+					<string>https://github.com/SwiftDocOrg/swift-doc</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>uninstalled</key>
+		<dict/>
+	</dict>
 	<key>DHUserRepo</key>
 	<dict>
 		<key>installed</key>
