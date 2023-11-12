@@ -68,11 +68,12 @@ mas install 640199958 899247664 441258766 904280696 1432731683 1569813296 115315
 |22 | Discord              | Discord Inc.                  | Social Networking| [Link](https://discord.com)                             | Free                   |
 |23 | Notion               | Notion Labs, Inc.             | Productivity     | [Link](https://www.notion.so)                           | Free                   |
 |24 | Swiftformat for Xcode| nicklockwood                  | Developer Tools  | [Link](https://github.com/nicklockwood/SwiftFormat)     | Free                   |
-|25 | MonitorControl       | mathew-kurian                 | Utilities        | [Link](https://github.com/MonitorControl/MonitorControl)| Free
+|25 | MonitorControl       | mathew-kurian                 | Utilities        | [Link](https://github.com/MonitorControl/MonitorControl)| Free                   |
+|26 | Steam                | Valve Corporation             | Entertainment    | [Link](https://store.steampowered.com/about/)           | Free                   |
 
 One command to quickly install everything together with **brew**:
 ```shell
-brew install --cask 1password alfred appcleaner charles daisydisk dash fork iina itsycal soulver visual-studio-code xcodes karabiner-elements figma the-unarchiver telegram google-chrome iterm2 transmission zoom devcleaner discord notion swiftformat-for-xcode monitorcontrol
+brew install --cask 1password alfred appcleaner charles daisydisk dash fork iina itsycal soulver visual-studio-code xcodes karabiner-elements figma the-unarchiver telegram google-chrome iterm2 transmission zoom devcleaner discord notion swiftformat-for-xcode monitorcontrol steam
 ```
 </br>
 
