@@ -1,6 +1,6 @@
 ## Hi, there! 👋
 
-I am an **iOS developer** and this repository hold apps list and configs, which i prefer to use during coding and casual use. 
+I am an **iOS developer** and this repository holds apps list and configs, which I prefer to use during coding and casual use. 
 Also it's quick way to prepare fresh new machine for development (iOS mainly and a little bit of JS) and so on.
 Feel free to use any config part.
 Also I will appreciate new ideas and improvements. 
