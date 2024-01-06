@@ -3,8 +3,9 @@
 # RULES CONFIG URL: https://github.com/realm/SwiftLint/tree/master/Source/SwiftLintFramework/Rules/RuleConfigurations
 
 excluded: 
-    # paths to ignore during linting
-
+    # case-sensitive paths to ignore during linting. Takes precedence over `included`
+included:
+    # case-sensitive paths to include during linting. `--path` is ignored if present
 disabled_rules:
     - inclusive_language
     # Use named arguments in multiline closures
