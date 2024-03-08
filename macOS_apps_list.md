@@ -71,10 +71,11 @@ mas install 640199958 899247664 441258766 904280696 1432731683 1569813296 115315
 |25 | MonitorControl       | mathew-kurian                 | Utilities        | [Link](https://github.com/MonitorControl/MonitorControl)| Free                   |
 |26 | Steam                | Valve Corporation             | Entertainment    | [Link](https://store.steampowered.com/about/)           | Free                   |
 |27 | VIA                  | VIA team                      | Utilities        | [Link](https://www.caniusevia.com)                      | Free                   |
+|28 | OneDrive             | Microsoft                     | Productivity     | [Link](https://onedrive.live.com)                       | Free                   | 
 
 One command to quickly install everything together with **brew**:
 ```shell
-brew install --cask 1password alfred appcleaner charles daisydisk dash fork iina itsycal soulver visual-studio-code xcodes karabiner-elements figma the-unarchiver telegram google-chrome iterm2 transmission zoom devcleaner discord notion swiftformat-for-xcode monitorcontrol steam via
+brew install --cask 1password alfred appcleaner charles daisydisk dash fork iina itsycal soulver visual-studio-code xcodes karabiner-elements figma the-unarchiver telegram google-chrome iterm2 transmission zoom devcleaner discord notion swiftformat-for-xcode monitorcontrol steam via onedrive
 ```
 </br>
 
