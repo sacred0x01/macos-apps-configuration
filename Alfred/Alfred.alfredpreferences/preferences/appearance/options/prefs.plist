@@ -6,6 +6,8 @@
 	<true/>
 	<key>hidemenu</key>
 	<true/>
+	<key>saveposition</key>
+	<true/>
 	<key>scrollbarmode</key>
 	<integer>1</integer>
 	<key>showOnScreen</key>
