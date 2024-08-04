@@ -22,26 +22,10 @@
 					<string>ASCII_Art</string>
 				</dict>
 			</dict>
-			<key>LLDB_Commands</key>
-			<dict>
-				<key>date</key>
-				<date>2023-04-30T16:06:28Z</date>
-				<key>entry</key>
-				<dict>
-					<key>aliases</key>
-					<array/>
-					<key>name</key>
-					<string>LLDB Commands</string>
-					<key>platform</key>
-					<string>cheatsheet</string>
-					<key>uniqueIdentifier</key>
-					<string>LLDB_Commands</string>
-				</dict>
-			</dict>
 			<key>NSDateFormatter</key>
 			<dict>
 				<key>date</key>
-				<date>2023-04-30T16:06:29Z</date>
+				<date>2024-07-06T14:18:34Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -65,94 +49,6 @@
 					<string>cheatsheet</string>
 					<key>uniqueIdentifier</key>
 					<string>NSDateFormatter</string>
-				</dict>
-			</dict>
-			<key>Swift</key>
-			<dict>
-				<key>date</key>
-				<date>2023-04-30T16:06:28Z</date>
-				<key>entry</key>
-				<dict>
-					<key>aliases</key>
-					<array>
-						<string>apple</string>
-						<string>cocoa touch</string>
-						<string>iphone</string>
-						<string>ipad</string>
-						<string>ios</string>
-						<string>mac os x</string>
-						<string>macosx</string>
-						<string>objc</string>
-						<string>objectivec</string>
-						<string>objective c</string>
-						<string>objective-c</string>
-						<string>xcode</string>
-						<string>swift</string>
-					</array>
-					<key>name</key>
-					<string>Swift</string>
-					<key>platform</key>
-					<string>cheatsheet</string>
-					<key>uniqueIdentifier</key>
-					<string>Swift</string>
-				</dict>
-			</dict>
-			<key>Xcode_Shortcuts</key>
-			<dict>
-				<key>date</key>
-				<date>2023-04-30T16:06:29Z</date>
-				<key>entry</key>
-				<dict>
-					<key>aliases</key>
-					<array>
-						<string>apple</string>
-						<string>cocoa touch</string>
-						<string>iphone</string>
-						<string>ipad</string>
-						<string>ios</string>
-						<string>mac os x</string>
-						<string>macosx</string>
-						<string>objc</string>
-						<string>objectivec</string>
-						<string>objective c</string>
-						<string>objective-c</string>
-						<string>swift</string>
-					</array>
-					<key>name</key>
-					<string>Xcode</string>
-					<key>platform</key>
-					<string>cheatsheet</string>
-					<key>uniqueIdentifier</key>
-					<string>Xcode_Shortcuts</string>
-				</dict>
-			</dict>
-			<key>Xcode_UI_Testing</key>
-			<dict>
-				<key>date</key>
-				<date>2023-04-30T16:06:29Z</date>
-				<key>entry</key>
-				<dict>
-					<key>aliases</key>
-					<array>
-						<string>apple</string>
-						<string>cocoa touch</string>
-						<string>iphone</string>
-						<string>ipad</string>
-						<string>ios</string>
-						<string>mac os x</string>
-						<string>macosx</string>
-						<string>objc</string>
-						<string>objectivec</string>
-						<string>objective c</string>
-						<string>objective-c</string>
-						<string>swift</string>
-					</array>
-					<key>name</key>
-					<string>Xcode UI Testing</string>
-					<key>platform</key>
-					<string>cheatsheet</string>
-					<key>uniqueIdentifier</key>
-					<string>Xcode_UI_Testing</string>
 				</dict>
 			</dict>
 		</dict>
@@ -203,7 +99,7 @@
 			<key>HTTP_Status_Codes</key>
 			<dict>
 				<key>date</key>
-				<date>2022-07-15T15:20:51Z</date>
+				<date>2024-08-04T21:56:06Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -214,6 +110,22 @@
 					<string>cheatsheet</string>
 					<key>uniqueIdentifier</key>
 					<string>HTTP_Status_Codes</string>
+				</dict>
+			</dict>
+			<key>LLDB_Commands</key>
+			<dict>
+				<key>date</key>
+				<date>2024-08-04T21:56:06Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>name</key>
+					<string>LLDB Commands</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>LLDB_Commands</string>
 				</dict>
 			</dict>
 			<key>Licenses</key>
@@ -343,10 +255,98 @@
 					<string>Regular_Expressions</string>
 				</dict>
 			</dict>
+			<key>Swift</key>
+			<dict>
+				<key>date</key>
+				<date>2024-08-04T21:56:06Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>apple</string>
+						<string>cocoa touch</string>
+						<string>iphone</string>
+						<string>ipad</string>
+						<string>ios</string>
+						<string>mac os x</string>
+						<string>macosx</string>
+						<string>objc</string>
+						<string>objectivec</string>
+						<string>objective c</string>
+						<string>objective-c</string>
+						<string>xcode</string>
+						<string>swift</string>
+					</array>
+					<key>name</key>
+					<string>Swift</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Swift</string>
+				</dict>
+			</dict>
+			<key>Xcode_Shortcuts</key>
+			<dict>
+				<key>date</key>
+				<date>2024-08-04T21:56:06Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>apple</string>
+						<string>cocoa touch</string>
+						<string>iphone</string>
+						<string>ipad</string>
+						<string>ios</string>
+						<string>mac os x</string>
+						<string>macosx</string>
+						<string>objc</string>
+						<string>objectivec</string>
+						<string>objective c</string>
+						<string>objective-c</string>
+						<string>swift</string>
+					</array>
+					<key>name</key>
+					<string>Xcode</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Xcode_Shortcuts</string>
+				</dict>
+			</dict>
+			<key>Xcode_UI_Testing</key>
+			<dict>
+				<key>date</key>
+				<date>2024-08-04T21:56:06Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>apple</string>
+						<string>cocoa touch</string>
+						<string>iphone</string>
+						<string>ipad</string>
+						<string>ios</string>
+						<string>mac os x</string>
+						<string>macosx</string>
+						<string>objc</string>
+						<string>objectivec</string>
+						<string>objective c</string>
+						<string>objective-c</string>
+						<string>swift</string>
+					</array>
+					<key>name</key>
+					<string>Xcode UI Testing</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Xcode_UI_Testing</string>
+				</dict>
+			</dict>
 			<key>iOS_Design</key>
 			<dict>
 				<key>date</key>
-				<date>2017-08-01T21:06:28Z</date>
+				<date>2024-08-04T21:56:06Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -469,11 +469,27 @@
 	<key>DHSwiftRepo</key>
 	<dict>
 		<key>installed</key>
+		<dict/>
+		<key>uninstalled</key>
 		<dict>
+			<key>https://github.com/SnapKit/SnapKit</key>
+			<dict>
+				<key>date</key>
+				<date>2024-08-04T22:02:03Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>SnapKit/SnapKit</string>
+					<key>platform</key>
+					<string>docc</string>
+					<key>uniqueIdentifier</key>
+					<string>https://github.com/SnapKit/SnapKit</string>
+				</dict>
+			</dict>
 			<key>https://github.com/SwiftDocOrg/swift-doc</key>
 			<dict>
 				<key>date</key>
-				<date>2024-03-18T13:25:03Z</date>
+				<date>2024-06-22T21:04:15Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -485,8 +501,6 @@
 				</dict>
 			</dict>
 		</dict>
-		<key>uninstalled</key>
-		<dict/>
 	</dict>
 	<key>DHUserRepo</key>
 	<dict>
@@ -513,7 +527,7 @@
 			<key>http://kapeli.com/feeds/Apple_API_Reference.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2023-05-26T07:46:46Z</date>
+				<date>2024-07-24T11:16:47Z</date>
 			</dict>
 			<key>http://promisekit.org/docs/handbook/docsets/PromiseKit.xml</key>
 			<dict>
@@ -532,6 +546,11 @@
 			<dict>
 				<key>date</key>
 				<date>2020-02-16T11:50:19Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/NodeJS.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2024-08-04T22:04:27Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/PHP.xml</key>
 			<dict>
