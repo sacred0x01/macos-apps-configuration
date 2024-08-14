@@ -1,6 +1,5 @@
 # Apps list
 
-## Preparation
 
 #### First of all - we need to install [Homebrew](https://brew.sh)
 
@@ -22,6 +21,7 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 </br>
 
 ## App Store.app
+
 |# | Title                             | Id          | Developer         | Category          | URL                                                                             |Price           |
 |--|-----------------------------------|-------------|-------------------|-------------------|:--------------------------------------------------------------------------------|---------------:|
 |1 | Developer                         | 640199958   | Apple             | Education         |[Link](https://apps.apple.com/us/app/apple-developer/id640199958)                |Free            |
