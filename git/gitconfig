@@ -1,8 +1,8 @@
 [user]
-        name = Dmitry Savitskiy
+        name = <put_full_name_here>
         email = <put_email_here>
 [core]
-	excludesfile = /Users/sacred/.gitignore_global
+	excludesfile = /Users/<put_name_here>/.gitignore_global
 	quotepath = false
 [color]
 	ui = true

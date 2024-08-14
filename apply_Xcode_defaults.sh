@@ -45,7 +45,7 @@ defaults write com.apple.dt.Xcode XCFontAndColorCurrentTheme -string "Default (L
 echo "Set dark theme"
 defaults write com.apple.dt.Xcode XCFontAndColorCurrentDarkTheme -string "Default (Dark)_fira.xccolortheme"
 
-echo "Add additional counterpart suffixes that Xcode should consider in the Related Items -> Counterparts menu."
-defaults write com.apple.dt.Xcode "IDEAdditionalCounterpartSuffixes" -array-add "Router" "Interactor" "Builder"
+#echo "Add additional counterpart suffixes that Xcode should consider in the Related Items -> Counterparts menu."
+#defaults write com.apple.dt.Xcode "IDEAdditionalCounterpartSuffixes" -array-add "Router" "Interactor" "Builder"
 
 echo "Warning: * items require to reopen new windows tab to take effect"
