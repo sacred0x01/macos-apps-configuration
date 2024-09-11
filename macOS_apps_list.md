@@ -26,21 +26,20 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 |--|-----------------------------------|-------------|-------------------|-------------------|:--------------------------------------------------------------------------------|---------------:|
 |1 | Developer                         | 640199958   | Apple             | Education         |[Link](https://apps.apple.com/us/app/apple-developer/id640199958)                |Free            |
 |2 | TestFlight                        | 899247664   | Apple             | Developer Tools   |[Link](https://apps.apple.com/by/app/testflight/id899247664)                     |Free            |
-|3 | Magnet                            | 441258766   | CrowdCafe         | Productivity      |[Link](https://apps.apple.com/by/app/magnet/id441258766)                         |$7.99           |
-|4 | Things                            | 904280696   | Cultured Code     | Productivity      |[Link](https://apps.apple.com/by/app/things-3/id904280696)                       |$49.99          |
-|5 | AdBlock Plus for Safari ABP       | 1432731683  | Eyeo GmbH         | Utilities         |[Link](https://apps.apple.com/by/app/adblock-plus-for-safari-abp/id1432731683)   |Free            |
-|6 | <i>1Password for Safari</i> ❓❓❓ | 1569813296  | AgileBits Inc.    | Productivity      |[Link](https://apps.apple.com/by/app/1password-for-safari/id1569813296?mt=12)    |Free            |
-|7 | Speedtest                         | 1153157709  | Ookla             | Utilities         |[Link](https://apps.apple.com/by/app/speedtest-by-ookla/id1153157709?mt=12)      |Free            |
-|8 | Pages                             | 409201541   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/pages/id409201541?mt=12)                    |Free            |
-|9 | Keynote                           | 409183694   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/keynote/id409183694?mt=12)                  |Free            |
-|10| Numbers                           | 409203825   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/numbers/id409203825?mt=12)                  |Free            |
-|11| Ivory                             | 6444602274  | Apple             | Social Networking |[Link](https://apps.apple.com/by/app/ivory-for-mastodon-by-tapbots/id6444602274) |Free            |
-|12| DaisyDisk                         | 411643860   | Software Ambience | Utilities         |[Link](https://daisydiskapp.com/)                                                |$9.99           |
-|13| X (designed for iPad)             | not working | X Corp            | News              |[Link](https://apps.apple.com/by/app/x/id333903271)                              |Free            |
+|3 | Things                            | 904280696   | Cultured Code     | Productivity      |[Link](https://apps.apple.com/by/app/things-3/id904280696)                       |$49.99          |
+|4 | AdBlock Plus for Safari ABP       | 1432731683  | Eyeo GmbH         | Utilities         |[Link](https://apps.apple.com/by/app/adblock-plus-for-safari-abp/id1432731683)   |Free            |
+|5 | <i>1Password for Safari</i> ❓❓❓ | 1569813296  | AgileBits Inc.    | Productivity      |[Link](https://apps.apple.com/by/app/1password-for-safari/id1569813296?mt=12)    |Free            |
+|6 | Speedtest                         | 1153157709  | Ookla             | Utilities         |[Link](https://apps.apple.com/by/app/speedtest-by-ookla/id1153157709?mt=12)      |Free            |
+|7 | Pages                             | 409201541   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/pages/id409201541?mt=12)                    |Free            |
+|8 | Keynote                           | 409183694   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/keynote/id409183694?mt=12)                  |Free            |
+|9| Numbers                           | 409203825   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/numbers/id409203825?mt=12)                  |Free            |
+|10| Ivory                             | 6444602274  | Apple             | Social Networking |[Link](https://apps.apple.com/by/app/ivory-for-mastodon-by-tapbots/id6444602274) |Free            |
+|11| DaisyDisk                         | 411643860   | Software Ambience | Utilities         |[Link](https://daisydiskapp.com/)                                                |$9.99           |
+|12| X (designed for iPad)             | not working | X Corp            | News              |[Link](https://apps.apple.com/by/app/x/id333903271)                              |Free            |
 
 One command to quickly install everything together with **mas**:
 ```shell  
-mas install 640199958 899247664 441258766 904280696 1432731683 1569813296 1153157709 409201541 409183694 409203825 6444602274 411643860
+mas install 640199958 899247664 904280696 1432731683 1569813296 1153157709 409201541 409183694 409203825 6444602274 411643860
 ```
 
 </br>  
