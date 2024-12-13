@@ -32,15 +32,12 @@ Here is complete list of apps I prefer to install on each my mac machine since d
 |6 | Pages                             | 409201541   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/pages/id409201541?mt=12)                    |Free            |
 |7 | Keynote                           | 409183694   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/keynote/id409183694?mt=12)                  |Free            |
 |8 | Numbers                           | 409203825   | Apple             | Productivity      |[Link](https://apps.apple.com/by/app/numbers/id409203825?mt=12)                  |Free            |
-|9 | Ivory                             | 6444602274  | Apple             | Social Networking |[Link](https://apps.apple.com/by/app/ivory-for-mastodon-by-tapbots/id6444602274) |Free            |
-|10| DaisyDisk                         | 411643860   | Software Ambience | Utilities         |[Link](https://daisydiskapp.com/)                                                |$9.99           |
-|11| X (designed for iPad)             | not working | X Corp            | News              |[Link](https://apps.apple.com/by/app/x/id333903271)                              |Free            |
-|12| Things                            | 904280696   | Cultured Code     | Productivity      |[Link](https://apps.apple.com/by/app/things-3/id904280696)                       |$49.99          |
+|9 | DaisyDisk                         | 411643860   | Software Ambience | Utilities         |[Link](https://daisydiskapp.com/)                                                |$9.99           |
 
 
 One command to quickly install everything together with **mas**:
 ```shell  
-mas install 640199958 1496833156 899247664 1432731683 1153157709 409201541 409183694 409203825 6444602274 411643860 904280696
+mas install 640199958 1496833156 899247664 1432731683 1153157709 409201541 409183694 409203825 411643860
 ```
 
 </br>  
@@ -71,16 +68,18 @@ mas install 640199958 1496833156 899247664 1432731683 1153157709 409201541 40918
 |18 | DevCleaner            | Konrad Kołakowski             | Utilities        | [Link](https://github.com/vashpan/xcode-dev-cleaner)    | Free                   |
 |19 | Discord               | Discord Inc.                  | Social Networking| [Link](https://discord.com)                             | Free                   |
 |20 | Notion                | Notion Labs, Inc.             | Productivity     | [Link](https://www.notion.so)                           | Free                   |
-|21 | Swiftformat for Xcode | nicklockwood                  | Developer Tools  | [Link](https://github.com/nicklockwood/SwiftFormat)     | Free                   |
-|22 | MonitorControl        | mathew-kurian                 | Utilities        | [Link](https://github.com/MonitorControl/MonitorControl)| Free                   |
-|23 | Steam                 | Valve Corporation             | Entertainment    | [Link](https://store.steampowered.com/about/)           | Free                   |
-|24 | VIA                   | VIA team                      | Utilities        | [Link](https://www.caniusevia.com)                      | Free                   |
-|25 | OneDrive              | Microsoft                     | Productivity     | [Link](https://onedrive.live.com)                       | Free                   | 
-|26 | Slack                 | Slack Technologies            | Social Networking| [Link](https://slack.com/)                              | Free                   |
+|21 | MonitorControl        | mathew-kurian                 | Utilities        | [Link](https://github.com/MonitorControl/MonitorControl)| Free                   |
+|22 | Steam                 | Valve Corporation             | Entertainment    | [Link](https://store.steampowered.com/about/)           | Free                   |
+|23 | VIA                   | VIA team                      | Utilities        | [Link](https://www.caniusevia.com)                      | Free                   |
+|24 | OneDrive              | Microsoft                     | Productivity     | [Link](https://onedrive.live.com)                       | Free                   | 
+|25 | Slack                 | Slack Technologies            | Social Networking| [Link](https://slack.com/)                              | Free                   |
+|26 | TunnelBear            | TunnelBear LLC.               | Utilities        | [Link](https://www.tunnelbear.com)                      | Free                   |
+|27 | ChatGPT               | OpenAI                        | Developer Tools  | [Link](https://chatgpt.com)                             | Free                   |
+|28 | SF Symbols            | Apple                         | Developer Tools  | [Link](https://developer.apple.com/sf-symbols/)         | Free                   |
 
 One command to quickly install all casks at once with **brew**:
 ```shell
-brew install --cask raycast appcleaner charles dash fork iina itsycal soulver visual-studio-code xcodes figma the-unarchiver telegram google-chrome warp transmission zoom devcleaner discord notion swiftformat-for-xcode monitorcontrol steam via onedrive slack
+brew install --cask raycast appcleaner charles dash fork iina itsycal soulver visual-studio-code xcodes figma the-unarchiver telegram google-chrome warp transmission zoom devcleaner discord notion monitorcontrol steam via onedrive slack tunnelbear chatgpt sf-symbols
 ```
 
 ### Formulae
