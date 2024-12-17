@@ -88,11 +88,12 @@ brew install --cask raycast appcleaner charles dash fork iina itsycal soulver vi
 |---|----------------------|---------------------------------------------------------|
 | 1 | swiftlint            | [Link](https://github.com/realm/SwiftLint)              |
 | 2 | swiftgen             | [Link](https://github.com/SwiftGen/SwiftGen)            |
+| 3 | periphery            | [Link](https://github.com/peripheryapp/periphery)       |
 
 One command to quickly install all formulae at once with **brew**:
 
 ```shell
-brew install swiftlint swiftgen
+brew install swiftlint swiftgen peripheryapp/periphery/periphery
 ```
 
 </br>
