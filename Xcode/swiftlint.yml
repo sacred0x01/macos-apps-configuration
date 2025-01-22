@@ -137,7 +137,6 @@ analyzer_rules:
 trailing_whitespace:
     ignores_empty_lines: true
     ignores_comments: true
-    ignores_urls: true
 
 line_length:
     warning: 160
