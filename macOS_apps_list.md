@@ -8,6 +8,7 @@
 ```
 ```
 echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> $HOME/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 Please check official [site](https://brew.sh) for actual install command (in case of updates)
