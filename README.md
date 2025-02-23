@@ -1,13 +1,13 @@
-## Hi, there! 👋
+## Hi there! 👋
 
-I am an **iOS developer** and this repository holds apps list and configs, which I prefer to use during coding and casual use. 
-Also it's quick way to prepare fresh new machine for development (iOS mainly and a little bit of JS) and so on.
-Feel free to use any config part.
-Also I will appreciate new ideas and improvements. 
+I am an **iOS developer** and this repository holds a list of applications and configs, which I prefer to use during coding and casual use.
+It's a quick way to prepare a new machine for development (iOS mainly and a little bit of JS) and so on.
+Feel free to use any config parts.
+Also, I will appreciate new ideas and improvements.  
 
 So let's get started 🚀
 
-## Configuration steps:
+## 🧑‍💻 Configuration steps:
 
 1. Download apps from  [macOS_apps_list.md](macOS_apps_list.md)
 2. Install [FiraCode](https://github.com/tonsky/FiraCode) font ([v6.2](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip))
@@ -20,14 +20,13 @@ So let's get started 🚀
 9. Install [visual_studio_code_plugins](visual_studio_code_plugins_list.md) <i>(coming soon)</i>
 10. Setup Dash settings sync [folder](Dash)
 
-## Configs to use manually
+## 🛠️ Xcode project configs:
 
 1. [swiftlint.yml](Xcode/swiftlint.yml)
 2. [swiftgen.yml](Xcode/swiftgen.yml)
 2. [swiftformat](Xcode/swiftformat)
 
-
-## Other
+## 💡Other:
 
 View [XCode_tips.md](Xcode_tips.md) for more additional info.
 
@@ -35,7 +34,7 @@ View [XCode_tips.md](Xcode_tips.md) for more additional info.
 
 ---
 
-#### Todo:
+#### ✏️ Todo:
 - [x] add script for automatic install
 - [x] add swiftlint, swiftgen, swiftformat configs
 - [x] update swiftlint, swiftgen, swiftformat configs
