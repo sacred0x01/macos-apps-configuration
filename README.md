@@ -10,14 +10,15 @@ So let's get started 🚀
 ## Configuration steps:
 
 1. Download apps from  [macOS_apps_list.md](macOS_apps_list.md)
-2. Install [FiraCode](https://github.com/tonsky/FiraCode) font ([direct v6.2](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip))
-3. Install Xcode via Xcodes.app and run at least once
+2. Install [FiraCode](https://github.com/tonsky/FiraCode) font ([v6.2](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip))
+3. Install `Xcode` with `Xcodes.app` and run at least once
 4. Run [copy_macOS_configs.sh](copy_macOS_configs.sh) to put `zsh`, `git` configs in place
 5. Run [copy_Xcode_configs.sh](copy_Xcode_configs.sh) to put Xcode themes and templates in place
 6. Run [apply_Xcode_defaults.sh](apply_Xcode_defaults.sh) to apply Xcode defaults
 7. Run [apply_macOS_defaults.sh](apply_macOS_defaults.sh) to apply macOS defaults
-8. Sync `Raycast`, `Dash` with settings folder
-9. Apply VS Code plugins <i>(coming soon)</i>
+8. Install [raycast_plugins_list](raycast_plugins_list.md) and import [Quicklinks.json](Raycast/Quicklinks.json)
+9. Install [visual_studio_code_plugins](visual_studio_code_plugins_list.md) <i>(coming soon)</i>
+10. Setup Dash settings sync [folder](Dash)
 
 ## Configs to use manually
 
@@ -28,7 +29,7 @@ So let's get started 🚀
 
 ## Other
 
-View [XCode_tips.md](Xcode_tips.md) for more additional ifno.
+View [XCode_tips.md](Xcode_tips.md) for more additional info.
 
 </br>
 
@@ -37,7 +38,8 @@ View [XCode_tips.md](Xcode_tips.md) for more additional ifno.
 #### Todo:
 - [x] add script for automatic install
 - [x] add swiftlint, swiftgen, swiftformat configs
-- [ ] update swiftlint, swiftgen, swiftformat configs
-- [ ] add Xcode snippets
-- [ ] add vs code plugins list
-- [ ] add screenshots and other visuals
+- [x] update swiftlint, swiftgen, swiftformat configs
+- [x] add Raycast plugins list
+- [ ] add VS Code plugins list <i>(in progress)</i>
+- [ ] add screenshots and other visuals <i>(?)</i>
+- [ ] add Xcode snippets <i>(?)</i>
