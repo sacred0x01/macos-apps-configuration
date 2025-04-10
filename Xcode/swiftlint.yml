@@ -24,6 +24,7 @@ disabled_rules:
     - discouraged_object_literal
     # Trailing closure syntax should be used whenever possible
     - trailing_closure
+    - attributes
 
 opt_in_rules:  # some rules are only opt-in
     # Conditional statements should always return on the next line

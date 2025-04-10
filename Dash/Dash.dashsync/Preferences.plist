@@ -529,11 +529,6 @@
 				<key>date</key>
 				<date>2025-02-02T19:59:34Z</date>
 			</dict>
-			<key>http://promisekit.org/docs/handbook/docsets/PromiseKit.xml</key>
-			<dict>
-				<key>date</key>
-				<date>2018-02-19T17:20:34Z</date>
-			</dict>
 		</dict>
 		<key>uninstalled</key>
 		<dict>
@@ -556,6 +551,11 @@
 			<dict>
 				<key>date</key>
 				<date>2020-02-18T16:33:46Z</date>
+			</dict>
+			<key>http://promisekit.org/docs/handbook/docsets/PromiseKit.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2025-04-07T16:21:30Z</date>
 			</dict>
 		</dict>
 	</dict>
