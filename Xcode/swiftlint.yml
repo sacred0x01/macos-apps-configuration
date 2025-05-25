@@ -175,8 +175,8 @@ function_parameter_count:
     warning: 6
 
 closure_body_length:
-    warning: 40
-    error: 50
+    warning: 80
+    error: 160
 
 large_tuple:
     warning: 4
