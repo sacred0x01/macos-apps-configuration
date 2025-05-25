@@ -28,7 +28,7 @@ So let's get started 🚀
 
 ## 💡Other:
 
-View [XCode_tips.md](Xcode_tips.md) for more additional info.
+View [Xcode_tips.md](Xcode_tips.md) for more additional info.
 
 </br>
 
