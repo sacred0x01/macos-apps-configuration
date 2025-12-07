@@ -1,0 +1,19 @@
+[
+    {
+        "link": "https://www.youtube.com/results?search_query={argument}",
+        "name": "Search YouTube"
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+        "name": "Open YouTube Lo-Fi"
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=4xDzrJKXOOY",
+        "name": "Open YouTube Synthwave"
+    },
+    {
+        "link": "https://howlongtobeat.com/?q={argument}",
+        "name": "How Long to Beat",
+        "iconName": "clock-16"
+    }
+]
