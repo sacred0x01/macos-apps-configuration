@@ -1,0 +1,88 @@
+{
+    // VS Code general ->
+    //
+    "files.defaultLanguage": "plaintext",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Default Light Modern",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Atom One Dark",
+    "window.openFilesInNewWindow": "on",
+    "window.openFoldersInNewWindow": "on",
+    "keyboard.dispatch": "keyCode",
+    "editor.fontSize": 13,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "editor.renderLineHighlight": "all",
+    "editor.showFoldingControls": "always",
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.rulers": [140,160],
+    "editor.wordWrapColumn": 140,
+    "editor.minimap.enabled": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.accessibilitySupport": "off",
+    "editor.wordWrap": "wordWrapColumn",
+    
+    "files.autoSave": "onFocusChange",
+    "explorer.compactFolders": false,
+    "explorer.fileNesting.expand": false,
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "debug.toolBarLocation": "commandCenter",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "search.exclude": {
+        "**/*.build": true
+    },
+
+    "git.openDiffOnClick": false,
+    //
+    // <- VS Code general
+    
+    // VS Code Terminal ->
+    //
+    "terminal.external.osxExec": "Warp.app",
+    "terminal.integrated.fontFamily": "'MesloLGS NF'",
+    "terminal.integrated.fontSize": 13,
+    //
+    // <- VS Code Terminal
+
+    // file-format specific ->
+    //
+    "[todo]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false
+    },
+    "[markdown]": {
+        "diffEditor.ignoreTrimWhitespace": true
+    },
+    //
+    // <- file-format specific
+    
+    // Plugins ->
+    //
+    "todo.embedded.exclude": ["**/*.pbxproj"],
+    "lldb.library": "/Applications/Xcode-26.2.0.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/LLDB",
+    "lldb.launch.expressions": "native",
+    "indentRainbow.lightIndicatorStyleLineWidth": 1,
+    // "indentRainbow.colors": [
+    //     "rgba(255,255,64,0.2)",
+    //     "rgba(127,255,127,0.2)",
+    //     "rgba(255,127,255,0.2)",
+    //     "rgba(79,236,236,0.2)"
+    // ],
+    "indentRainbow.errorColor": "rgba(128,32,32,0.2)",
+    "indentRainbow.indicatorStyle": "light",
+    "swiftlint.configSearchPaths": [
+        "~/Documents/macos-apps-configuration/Xcode/swiftlint.yml"
+    ],
+    "errorLens.excludeWorkspaces": [
+        "~/Documents/macos-apps-configuration"
+    ],
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "swift.debugger.useDebugAdapterFromToolchain": false
+    //
+    // <- Plugins
+}

@@ -26,6 +26,10 @@ So let's get started 🚀
 2. [swiftgen.yml](Xcode/swiftgen.yml)
 2. [swiftformat](Xcode/swiftformat)
 
+## 📝 VSCode/Cursor settings:
+1. Import [main.code-profile](VSCode_Cursor/main.code-profile) via `Code -> Settings -> Profile` section 
+2. Paste [settings.json](VSCode_Cursor/settings.json) raw JSON in `Code -> Settings -> Open Settings(JSON)`
+
 ## 💡Other:
 
 View [Xcode_tips.md](Xcode_tips.md) for more additional info.
@@ -39,6 +43,6 @@ View [Xcode_tips.md](Xcode_tips.md) for more additional info.
 - [x] add swiftlint, swiftgen, swiftformat configs
 - [x] update swiftlint, swiftgen, swiftformat configs
 - [x] add Raycast plugins list
-- [ ] add VS Code plugins list <i>(in progress)</i>
+- [x] add VS Code plugins list <i>(in progress)</i>
 - [ ] add screenshots and other visuals <i>(?)</i>
 - [ ] add Xcode snippets <i>(?)</i>
