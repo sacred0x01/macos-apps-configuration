@@ -47,40 +47,42 @@ mas install 640199958 1496833156 899247664 1432731683 1153157709 409201541 40918
 
 ### Casks
 
-|#  | Title                 | Developer                     | Category         | URL                                                     | Price                  |
-|---|-----------------------|-------------------------------|------------------|---------------------------------------------------------|-----------------------:|
-|1  | Raycast               | Raycast Technologies Ltd      | Productivity     | [Link](https://www.raycast.com)                         | Free                   |
-|2  | AppCleaner            | FreeMacSoft                   | Utilities        | [Link](https://freemacsoft.net/appcleaner/)             | Free                   |
-|3  | Charles               | xk72                          | Developer Tools  | [Link](https://www.charlesproxy.com/)                   | $50                    |
-|4  | Dash                  | kapeli                        | Developer Tools  | [Link](https://kapeli.com/dash)                         | $30                    |
-|5  | Fork                  | Dan Pristupov                 | Developer Tools  | [Link](https://git-fork.com/)                           | $49.99, free evaluation|
-|6  | IINA                  | iina.io                       | Photo & Video    | [Link](https://iina.io)                                 | Free                   |
-|7  | Itsycal               | Mowglii                       | Productivity     | [Link](https://www.mowglii.com/itsycal/)                | Free                   |
-|8  | Soulver               | Acqualia Software             | Productivity     | [Link](https://www.acqualia.com/soulver/)               | $34.95                 |
-|9  | Visual Studio Code    | Microsoft                     | Developer Tools  | [Link](https://code.visualstudio.com/)                  | Free                   |
-|10 | Xcodes                | Matt Kiazyk                   | Developer Tools  | [Link](https://www.xcodes.app)                          | Free                   |
-|11 | Figma                 | Figma Inc.                    | Developer Tools  | [Link](https://www.figma.com/)                          | Free                   |
-|12 | The Unarchiver        | MacPaw Inc.                   | Utilities        | [Link](https://theunarchiver.com)                       | Free                   |
-|13 | Telegram              | Telegram FZ LLC               | Social Networking| [Link](https://macos.telegram.org)                      | Free                   |
-|14 | Google Chrome         | Google                        | Utilities        | [Link](https://www.google.com/chrome/)                  | Free                   |
-|15 | Warp                  | Warp                          | Developer Tools  | [Link](https://www.warp.dev)                            | Free                   |
-|16 | Transmission          | Transmission                  | Utilities        | [Link](https://transmissionbt.com)                      | Free                   |
-|17 | Zoom                  | Zoom Video Communications, Inc| Social Networking| [Link](https://zoom.us)                                 | Free                   |
-|18 | DevCleaner            | Konrad Kołakowski             | Utilities        | [Link](https://github.com/vashpan/xcode-dev-cleaner)    | Free                   |
-|19 | Discord               | Discord Inc.                  | Social Networking| [Link](https://discord.com)                             | Free                   |
-|20 | Notion                | Notion Labs, Inc.             | Productivity     | [Link](https://www.notion.so)                           | Free                   |
-|21 | MonitorControl        | mathew-kurian                 | Utilities        | [Link](https://github.com/MonitorControl/MonitorControl)| Free                   |
-|22 | Steam                 | Valve Corporation             | Entertainment    | [Link](https://store.steampowered.com/about/)           | Free                   |
-|23 | VIA                   | VIA team                      | Utilities        | [Link](https://www.caniusevia.com)                      | Free                   |
-|24 | OneDrive              | Microsoft                     | Productivity     | [Link](https://onedrive.live.com)                       | Free                   | 
-|25 | Slack                 | Slack Technologies            | Social Networking| [Link](https://slack.com/)                              | Free                   |
-|26 | TunnelBear            | TunnelBear LLC.               | Utilities        | [Link](https://www.tunnelbear.com)                      | Free                   |
-|27 | ChatGPT               | OpenAI                        | Developer Tools  | [Link](https://chatgpt.com)                             | Free                   |
-|28 | SF Symbols            | Apple                         | Developer Tools  | [Link](https://developer.apple.com/sf-symbols/)         | Free                   |
+| #  | Title               | Developer                      | Category           | URL                                                                             | Price                   |
+|----|---------------------|------------------------------- |--------------------|---------------------------------------------------------------------------------|-------------------------|
+| 1  | Raycast             | Raycast Technologies Ltd       | Productivity       | [Link](https://www.raycast.com)                                                 | Free                    |
+| 2  | AppCleaner          | FreeMacSoft                    | Utilities          | [Link](https://freemacsoft.net/appcleaner/)                                     | Free                    |
+| 3  | Charles             | xk72                           | Developer Tools    | [Link](https://www.charlesproxy.com/)                                           | $50                     |
+| 4  | Dash                | kapeli                         | Developer Tools    | [Link](https://kapeli.com/dash)                                                 | $30                     |
+| 5  | Fork                | Dan Pristupov                  | Developer Tools    | [Link](https://git-fork.com/)                                                   | $49.99, free evaluation |
+| 6  | IINA                | iina.io                        | Photo & Video      | [Link](https://iina.io)                                                         | Free                    |
+| 7  | Itsycal             | Mowglii                        | Productivity       | [Link](https://www.mowglii.com/itsycal/)                                        | Free                    |
+| 8  | Soulver             | Acqualia Software              | Productivity       | [Link](https://www.acqualia.com/soulver/)                                       | $34.95                  |
+| 9  | Visual Studio Code  | Microsoft                      | Developer Tools    | [Link](https://code.visualstudio.com/)                                          | Free                    |
+| 10 | Xcodes              | Matt Kiazyk                    | Developer Tools    | [Link](https://www.xcodes.app)                                                  | Free                    |
+| 11 | Figma               | Figma Inc.                     | Developer Tools    | [Link](https://www.figma.com/)                                                  | Free                    |
+| 12 | The Unarchiver      | MacPaw Inc.                    | Utilities          | [Link](https://theunarchiver.com)                                               | Free                    |
+| 13 | Telegram            | Telegram FZ LLC                | Social Networking  | [Link](https://macos.telegram.org)                                              | Free                    |
+| 14 | Google Chrome       | Google                         | Utilities          | [Link](https://www.google.com/chrome/)                                          | Free                    |
+| 15 | Warp                | Warp                           | Developer Tools    | [Link](https://www.warp.dev)                                                    | Free                    |
+| 16 | Transmission        | Transmission                   | Utilities          | [Link](https://transmissionbt.com)                                              | Free                    |
+| 17 | Zoom                | Zoom Video Communications, Inc | Social Networking  | [Link](https://zoom.us)                                                         | Free                    |
+| 18 | DevCleaner          | Konrad Kołakowski              | Utilities          | [Link](https://github.com/vashpan/xcode-dev-cleaner)                            | Free                    |
+| 19 | Discord             | Discord Inc.                   | Social Networking  | [Link](https://discord.com)                                                     | Free                    |
+| 20 | Notion              | Notion Labs, Inc.              | Productivity       | [Link](https://www.notion.so)                                                   | Free                    |
+| 21 | MonitorControl      | mathew-kurian                  | Utilities          | [Link](https://github.com/MonitorControl/MonitorControl)                        | Free                    |
+| 22 | Steam               | Valve Corporation              | Entertainment      | [Link](https://store.steampowered.com/about/)                                   | Free                    |
+| 23 | VIA                 | VIA team                       | Utilities          | [Link](https://www.caniusevia.com)                                              | Free                    |
+| 24 | OneDrive            | Microsoft                      | Productivity       | [Link](https://onedrive.live.com)                                               | Free                    |
+| 25 | Slack               | Slack Technologies             | Social Networking  | [Link](https://slack.com/)                                                      | Free                    |
+| 26 | TunnelBear          | TunnelBear LLC.                | Utilities          | [Link](https://www.tunnelbear.com)                                              | Free                    |
+| 27 | ChatGPT             | OpenAI                         | Developer Tools    | [Link](https://chatgpt.com)                                                     | Free                    |
+| 28 | SF Symbols          | Apple                          | Developer Tools    | [Link](https://developer.apple.com/sf-symbols/)                                 | Free                    |
+| 29 | PS Remote Play      | Sony                           | Gaming             | [Link](https://remoteplay.dl.playstation.net/)                                  | Free                    |
+| 30 | Logi Options+       | Logitech                       | Utilities          | [Link](https://www.logitech.com/en-us/software/logi-options-plus.html)          | Free                    |
 
 One command to quickly install all casks at once with **brew**:
 ```shell
-brew install --cask raycast appcleaner charles dash fork iina itsycal soulver visual-studio-code xcodes figma the-unarchiver telegram google-chrome warp transmission zoom devcleaner discord notion monitorcontrol steam via onedrive slack tunnelbear chatgpt sf-symbols
+brew install --cask raycast appcleaner charles dash fork iina itsycal soulver visual-studio-code xcodes figma the-unarchiver telegram google-chrome warp transmission zoom devcleaner discord notion monitorcontrol steam via onedrive slack tunnelbear chatgpt sf-symbols sony-ps-remote-play logi-options+
 ```
 
 ### Formulae
@@ -94,16 +96,11 @@ brew install --cask raycast appcleaner charles dash fork iina itsycal soulver vi
 One command to quickly install all formulae at once with **brew**:
 
 ```shell
-brew install swiftlint swiftgen peripheryapp/periphery/periphery
+brew install swiftlint swiftgen periphery
 ```
 
 </br>
 
 ## Other
 
-|# | Title          | Developer                          | Category  | URL                                                                   | Price  |
-|--|----------------|------------------------------------|-----------|-----------------------------------------------------------------------|-------:|
-|1 | Logi Options+  | Logitech                           | Utilities | [Link](https://www.logitech.com/en-us/software/logi-options-plus.html)| Free   |
-|2 | PS Remote Play | Sony Interactive Entertainment Inc.| Utilities | [Link](https://remoteplay.dl.playstation.net/remoteplay/lang/en/)     | Free   |
-
-Only manual download directly from vendor website.
+...
