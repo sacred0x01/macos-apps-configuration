@@ -1,6 +1,5 @@
 ## Raycast plugins
-- [Apple Reminder](https://www.raycast.com/raycast/apple-reminders)
-- [Ask Perplexity](https://www.raycast.com/raycast/apple-reminders)
+- [Perplexity](https://www.raycast.com/third774/perplexity)
 - [Brew](https://www.raycast.com/nhojb/brew)
 - [Color Picker](https://www.raycast.com/thomas/color-picker)
 - [Dash](https://www.raycast.com/RSO/dash)
