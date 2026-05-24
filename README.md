@@ -9,12 +9,12 @@ So let's get started 🚀
 
 ## 🧑‍💻 Configuration steps:
 0. Download repo and go to this folder (all script command paths started from root)
-1. Go through list [macOS_apps_list.md](osx/macOS_apps_list.md) to install full set of needed apps
+1. Go through list [macOS_apps_list.md](macOS/macOS_apps_list.md) to install full set of needed apps
 2. Install [FiraCode](https://github.com/tonsky/FiraCode) font (current latest [v6.2](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip))
 3. Install `Xcode` with `Xcodes.app` and run at least once
-4. Run [copy_macOS_configs.sh](osx/copy_macOS_configs.sh) to put `zsh`, `git` configs in place
+4. Run [copy_macOS_configs.sh](macOS/copy_macOS_configs.sh) to put `zsh`, `git` configs in place
 ```bash
-sh osx/copy_macOS_configs.sh 
+sh macOS/copy_macOS_configs.sh 
 ```
 5. Run [copy_Xcode_configs.sh](Xcode/copy_Xcode_configs.sh) to put Xcode themes and templates in place
 ```bash 
@@ -24,9 +24,9 @@ sh Xcode/copy_Xcode_configs.sh
 ```bash
 sh Xcode/apply_Xcode_defaults.sh
 ```
-7. Run [apply_macOS_defaults.sh](osx/apply_macOS_defaults.sh) to apply macOS defaults
+7. Run [apply_macOS_defaults.sh](macOS/apply_macOS_defaults.sh) to apply macOS defaults
 ```bash
-sh osx/apply_macOS_defaults.sh
+sh macOS/apply_macOS_defaults.sh
 ```
 8. Install [raycast_plugins_list](Raycast/raycast_plugins_list.md)
 9. Import [raycast_quicklinks.json](Raycast/raycast_quicklinks.json)
