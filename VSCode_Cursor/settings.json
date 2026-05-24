@@ -5,9 +5,10 @@
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Default Light Modern",
-    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "Light Modern",
     "workbench.preferredDarkColorTheme": "Atom One Dark",
+    "workbench.colorTheme": "Light Modern",
+    "window.autoDetectColorScheme": true,
     "window.openFilesInNewWindow": "on",
     "window.openFoldersInNewWindow": "on",
     "keyboard.dispatch": "keyCode",
@@ -21,8 +22,8 @@
     "editor.renderWhitespace": "all",
     "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "editor.rulers": [140,160],
-    "editor.wordWrapColumn": 140,
+    "editor.rulers": [160],
+    "editor.wordWrapColumn": 160,
     "editor.minimap.enabled": false,
     "editor.inlineSuggest.enabled": true,
     "editor.accessibilitySupport": "off",
@@ -39,6 +40,7 @@
     },
 
     "git.openDiffOnClick": false,
+    "chat.disableAIFeatures": true,
     //
     // <- VS Code general
     
@@ -75,14 +77,19 @@
     // ],
     "indentRainbow.errorColor": "rgba(128,32,32,0.2)",
     "indentRainbow.indicatorStyle": "light",
-    "swiftlint.configSearchPaths": [
-        "~/Documents/macos-apps-configuration/Xcode/swiftlint.yml"
-    ],
     "errorLens.excludeWorkspaces": [
         "~/Documents/macos-apps-configuration"
     ],
     "diffEditor.hideUnchangedRegions.enabled": true,
-    "swift.debugger.useDebugAdapterFromToolchain": false
+    "swift.debugger.debugAdapter": "auto",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "cSpell.userWords": [
+        "leetcode",
+        "shellenv",
+        "swiftformat",
+        "swiftgen",
+        "swiftlint"
+    ]
     //
     // <- Plugins
 }

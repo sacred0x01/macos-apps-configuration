@@ -79,10 +79,13 @@ mas install 640199958 1496833156 899247664 1432731683 1153157709 409201541 40918
 | 28 | SF Symbols          | Apple                          | Developer Tools    | [Link](https://developer.apple.com/sf-symbols/)                                 | Free                    |
 | 29 | PS Remote Play      | Sony                           | Gaming             | [Link](https://remoteplay.dl.playstation.net/)                                  | Free                    |
 | 30 | Logi Options+       | Logitech                       | Utilities          | [Link](https://www.logitech.com/en-us/software/logi-options-plus.html)          | Free                    |
+| 31 | FineTune            | Ronit Singh                    | Utilities          | [Link](https://github.com/ronitsingh10/FineTune)                                | Free                    |
+| 32 | MacsFanControl      | crystalidea                    | Utilities          | [Link](https://crystalidea.com/macs-fan-control)                                | Free                    |
+| 33 | Pearcleaner         | Alin Lupascu                   | Utilities          | [Link](https://itsalin.com/appInfo/?id=pearcleaner)                             | Free                    |
 
 One command to quickly install all casks at once with **brew**:
 ```shell
-brew install --cask raycast appcleaner charles dash fork iina itsycal soulver visual-studio-code xcodes figma the-unarchiver telegram google-chrome warp transmission zoom devcleaner discord notion monitorcontrol steam via onedrive slack tunnelbear chatgpt sf-symbols sony-ps-remote-play logi-options+
+brew install --cask raycast appcleaner charles dash fork iina itsycal soulver visual-studio-code xcodes figma the-unarchiver telegram google-chrome warp transmission zoom devcleaner discord notion monitorcontrol steam via onedrive slack tunnelbear chatgpt sf-symbols sony-ps-remote-play logi-options+ finetune  macs-fan-control
 ```
 
 ### Formulae
