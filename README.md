@@ -14,19 +14,19 @@ So let's get started 🚀
 3. Install `Xcode` with `Xcodes.app` and run at least once
 4. Run [copy_macOS_configs.sh](osx/copy_macOS_configs.sh) to put `zsh`, `git` configs in place
 ```bash
-    sh osx/copy_macOS_configs.sh 
+sh osx/copy_macOS_configs.sh 
 ```
 5. Run [copy_Xcode_configs.sh](Xcode/copy_Xcode_configs.sh) to put Xcode themes and templates in place
 ```bash 
-    sh Xcode/copy_Xcode_configs.sh
+sh Xcode/copy_Xcode_configs.sh
 ```
 6. Run [apply_Xcode_defaults.sh](Xcode/apply_Xcode_defaults.sh) to apply Xcode defaults
 ```bash
-    sh Xcode/apply_Xcode_defaults.sh
+sh Xcode/apply_Xcode_defaults.sh
 ```
 7. Run [apply_macOS_defaults.sh](osx/apply_macOS_defaults.sh) to apply macOS defaults
 ```bash
-    sh osx/apply_macOS_defaults.sh
+sh osx/apply_macOS_defaults.sh
 ```
 8. Install [raycast_plugins_list](Raycast/raycast_plugins_list.md)
 9. Import [raycast_quicklinks.json](Raycast/raycast_quicklinks.json)
